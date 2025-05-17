@@ -1,4 +1,3 @@
-````markdown
 # Note CRUD + Search (Room) — Installation & Setup Guide
 
 This guide walks you through downloading, installing, and running the Note CRUD + Search Android app powered by Jetpack Compose and Room.
